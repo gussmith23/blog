@@ -2,7 +2,7 @@
 layout: post
 title:  "Building gem5: A Supplement"
 date:   2018-02-06 00:00:00 +0000
-categories: software-engineering tech gem5
+tags: [software-engineering, tech, gem5]
 ---
 
 *This is not a tutorial on building gem5; for that, please read gem5's documentation. This article supplements the existing documentation with some specific workarounds needed to build gem5 on my system.*

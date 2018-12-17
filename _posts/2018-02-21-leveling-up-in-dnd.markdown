@@ -2,7 +2,7 @@
 layout: post
 title:  "Leveling up in Dungeons and Dragons (5th Edition)"
 date:   2018-02-21 00:00:00 +0000
-categories: dnd
+tags: [dnd]
 ---
 *This is my explanation of how leveling up works in D&D 5e. It's not meant to add anything new to the conversation; it's simply a distilled version of the original rules, with some clarifications that I found helpful. Most of this comes from the Player's Handbook (and the [corresponding roll20 page](https://roll20.net/compendium/dnd5e/Character%20Advancement#content)).*
 
