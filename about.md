@@ -1,6 +1,9 @@
 ---
 layout: default
+title: About Me
 ---
+# {{ page.title }}
+
 *Short version:* Architecture PhD student interested in applying knowledge in programming languages to wacky, nontraditional, heterogeneous architectures. School's website is [`cs.washington.edu`](https://cs.washington.edu), and I am `gussmith` at this address.
 
 *Longer version:* I am pursuing my PhD at the University of Washington's Paul G. Allen School of Computer Science &amp; Engineering in Seattle. My advisor is [Luis Ceze](https://www.cs.washington.edu/people/faculty/luisceze).
