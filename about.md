@@ -4,6 +4,14 @@ title: About Me
 ---
 # {{ page.title }}
 
+<div class="picture-of-me">
+<img src="assets/me.png" alt="Gus Smith">
+<div>San Francisco, Summer 2018.</div>
+<div>(photo cred <a href="https://www.instagram.com/jenniekimphotography/" target="_blank">@jenniekimphotography</a>)</div>
+</div>
+
+![Gus Smith](assets/me.png)
+
 *Architecture PhD student interested in applying knowledge in programming languages to wacky, nontraditional, heterogeneous architectures.*
 
 School's website is [`cs.washington.edu`](https://cs.washington.edu), and I am `gussmith` at this address.
